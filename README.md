@@ -9,4 +9,4 @@ Made with basic HTML and CSS.
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/LinkList/search?l=css)&nbsp;
 
 ## Sneak Peek of Web Page 🙈 :
-![linklist](https://user-images.githubusercontent.com/64949957/124396066-1b828880-dd25-11eb-9ee8-53de21d9faac.PNG)
+![linklist]<img width="2048" height="1106" alt="Screenshot 2026-09-11 233102" src="https://github.com/user-attachments/assets/283b844f-b02d-4781-80b4-cd6db86d2e7c" />
